@@ -7,7 +7,6 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
 public class CarDriver {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
