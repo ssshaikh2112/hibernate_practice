@@ -30,6 +30,5 @@ public class Employee {
 	public void setEmpSal(double empSal) {
 		this.empSal = empSal;
 	}
-	
 
 }
