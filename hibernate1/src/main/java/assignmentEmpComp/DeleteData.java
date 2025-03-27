@@ -14,6 +14,7 @@ public class DeleteData {
 		EntityTransaction et=em.getTransaction();
 		
 		Company company=em.find(Company.class,102);
+		
 		et.begin();
 		em.remove(company);
 		et.commit();
