@@ -46,6 +46,7 @@ public class InsertData {
 		em.persist(employee2);
 		et.commit();
 
+		
 	}
 
 }
