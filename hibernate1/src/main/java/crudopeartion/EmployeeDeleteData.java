@@ -20,6 +20,7 @@ public class EmployeeDeleteData {
 			et.commit();
 		}
 		else {
+			
 			System.out.println("INVALID ID");
 		}
 	}
