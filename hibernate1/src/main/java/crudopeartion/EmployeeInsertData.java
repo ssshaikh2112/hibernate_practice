@@ -17,6 +17,7 @@ public class EmployeeInsertData {
 		emp.setEmpId(105);
 		emp.setEmpName("Noa");
 		emp.setEmpSal(51000);
+
 		
 		et.begin();
 		em.persist(emp);
