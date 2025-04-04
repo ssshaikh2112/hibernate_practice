@@ -18,6 +18,5 @@ public class EmployeeUpdateData
 		em.merge(emp);
 		et.commit();
 	}
-	
 
 }
