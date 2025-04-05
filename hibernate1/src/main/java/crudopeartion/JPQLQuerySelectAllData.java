@@ -21,6 +21,7 @@ public class JPQLQuerySelectAllData {
 			System.out.println(employee.getEmpName());
 			System.out.println(employee.getEmpSal());
 			System.out.println("-------------");
+			
 		}
 	}
 
