@@ -45,7 +45,5 @@ public class CarDetail {
 	public void setCarModel(String carModel) {
 		this.carModel = carModel;
 	}
-	
-	
 
 }
