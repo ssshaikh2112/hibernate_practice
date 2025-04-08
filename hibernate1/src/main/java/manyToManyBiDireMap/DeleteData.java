@@ -21,6 +21,7 @@ public class DeleteData {
 		et.begin();
 		em.remove(student);
 		et.commit();
+
 		
 	}
 
