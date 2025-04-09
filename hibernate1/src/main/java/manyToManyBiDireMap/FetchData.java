@@ -22,7 +22,6 @@ public class FetchData {
 		{
 			System.out.println(stud.getSubId());
 			System.out.println(stud.getSubName());
-			
 		}
 	}
 
