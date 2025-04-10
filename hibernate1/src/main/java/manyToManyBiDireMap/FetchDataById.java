@@ -17,6 +17,7 @@ public class FetchDataById {
 		Query query=em.createQuery("select stud from StudentManyToManyBiDir stud where stud.studId=103");
 		List result=query.getResultList();
 		System.out.println(result);
+		
 	}
 
 }
