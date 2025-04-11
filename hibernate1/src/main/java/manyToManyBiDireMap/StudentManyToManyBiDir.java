@@ -38,6 +38,4 @@ public class StudentManyToManyBiDir {
 	public String toString() {
 		return "StudentManyToManyBiDir [studId=" + studId + ", studName=" + studName + "]";
 	}
-	
-
 }
