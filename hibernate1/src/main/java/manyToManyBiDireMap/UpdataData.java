@@ -23,6 +23,7 @@ public class UpdataData {
 		et.begin();
 		em.merge(student);
 		et.commit();
+		
 	}
 
 }
