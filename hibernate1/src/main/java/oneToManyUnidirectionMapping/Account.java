@@ -36,6 +36,5 @@ public class Account
 		return "Account [accountID=" + accountID + ", name=" + name + ", balanace=" + balanace + "]";
 	}
 	
-	
 
 }
