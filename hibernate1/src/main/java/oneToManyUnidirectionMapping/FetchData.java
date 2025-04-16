@@ -22,6 +22,7 @@ public class FetchData {
 		
 		for (Account account : list) {
 			System.out.println(account);
+			
 		}
 	}
 
