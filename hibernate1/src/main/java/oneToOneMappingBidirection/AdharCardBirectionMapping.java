@@ -46,6 +46,4 @@ public class AdharCardBirectionMapping {
 	public String toString() {
 		return "AdharCardBirectionMapping [adharNumber=" + adharNumber + ", address=" + address + "]";
 	}
-	
-	
 }
