@@ -17,7 +17,6 @@ public class DeleteData {
 		PersonBidirectionMapping person=em.find(PersonBidirectionMapping.class, 102);
 		AdharCardBirectionMapping card=person.getCard();
 		
-		
 		et.begin();
 		em.remove(person);
 
