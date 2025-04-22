@@ -22,6 +22,7 @@ public class UpdateData {
 		// for update or persist() also applicable.
 		em.merge(person);
 		et.commit();
+		
 	}
 
 }
