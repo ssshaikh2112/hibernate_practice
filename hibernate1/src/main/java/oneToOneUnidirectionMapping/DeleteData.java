@@ -21,7 +21,6 @@ public class DeleteData {
 		
 		AdharCard person=em.find(AdharCard.class,1003);
 	//	AdharCard card=person.getAdharCard();
-		
 		//AdharCard adhar=new AdharCard();
 		et.begin();
 		em.remove(person);
