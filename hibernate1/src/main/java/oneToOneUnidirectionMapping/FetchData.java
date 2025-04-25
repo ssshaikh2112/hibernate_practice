@@ -20,6 +20,7 @@ public class FetchData {
 		System.out.println("==========================");
 		System.out.println("Person Adhaar : "+adhaar.getAdharNumber());
 		System.out.println("Person Adhhar : "+adhaar.getAddress());
+		
 	}
 
 }
