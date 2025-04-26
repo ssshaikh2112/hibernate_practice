@@ -43,7 +43,6 @@ public class InsertData {
 		em.persist(person);
 		em.persist(adhaar);
 		et.commit();
-		
 	}
 
 }
