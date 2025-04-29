@@ -6,7 +6,6 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
 public class UpdateData {
-
 	public static void main(String[] args) 
 	{
 		EntityManagerFactory emf=Persistence.createEntityManagerFactory("dev");
