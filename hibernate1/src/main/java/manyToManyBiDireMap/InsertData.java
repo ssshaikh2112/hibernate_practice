@@ -55,6 +55,7 @@ public class InsertData {
 		subject1.setStudents(studentList);
 		subject2.setStudents(studentList);
 		subject3.setStudents(studentList);
+
 		
 
 		et.begin();
